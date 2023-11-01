@@ -6,4 +6,5 @@
 
 ### Added
 
-- ✨ 
+- ✨ GoLang written to rotate AWS Iam user keys
+- ✨ Infrastructure deployed via CloudFormation

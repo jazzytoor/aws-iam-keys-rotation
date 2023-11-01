@@ -4,3 +4,19 @@
   ParameterValue: "${BUILD_DEFINITIONNAME}"
 - ParameterKey: BuildNumber
   ParameterValue: "${BUILD_BUILDNUMBER}"
+- ParameterKey: StorageBucket
+  ParameterValue: "${StorageBucket}"
+- ParameterKey: AdoOrg
+  ParameterValue: "${AdoOrg}"
+- ParameterKey: AdoProject
+  ParameterValue: "${AdoProject}"
+- ParameterKey: AdoServiceEndpointName
+  ParameterValue: "${AdoServiceEndpointName}"
+- ParameterKey: AdoUserSsm
+  ParameterValue: "${AdoUserSsm}"
+- ParameterKey: AdoTokenSsm
+  ParameterValue: "${AdoTokenSsm}"
+- ParameterKey: IamUserName
+  ParameterValue: "${IamUserName}"
+- ParameterKey: DiscordWebhookUrlSsm
+  ParameterValue: "${DiscordWebhookUrlSsm}"
