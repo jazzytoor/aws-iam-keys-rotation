@@ -1,0 +1,6 @@
+- ParameterKey: Environment
+  ParameterValue: "${SYSTEM_STAGENAME}"
+- ParameterKey: BuildDefinitionName
+  ParameterValue: "${BUILD_DEFINITIONNAME}"
+- ParameterKey: BuildNumber
+  ParameterValue: "${BUILD_BUILDNUMBER}"
