@@ -19,6 +19,7 @@ This repository demostrates how to perform AWS Iam User keys rotation
 ## Coming Soon
 - ❗️ Support for GitHub Actions
 - ❗️ Write language in Python
+- ❗️ Infrastructure created via Terraform
 
 ## Author
 
